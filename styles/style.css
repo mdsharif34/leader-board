@@ -1,0 +1,83 @@
+
+body{
+    background-color: #f3f1ff;
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+.top-player{
+    background-color: white;
+    margin: 30px 0px;
+    border-radius: 10px;
+}
+main{
+    width: 870px;
+}
+hr{
+    border: 1px solid #D1D1D1;
+}
+.blog img{
+    width: 177px;
+    height: 117px;
+}
+.blog-content{
+    font-weight: 500;
+    font-size: 20px;
+}
+#blog-con{
+    width: 107px;
+    height: 24px;
+    font-size: 14px;
+    padding: none;
+    margin-top: 10px;
+    color: #562EFF;
+
+}
+span{
+    color: #9F9F9F;
+}
+.star-size{
+    width: 20px;
+    height: 20px;
+}
+.rating-star span{
+    color:#aeaeae;
+}
+.rating-star .checked{
+    color:orange;
+}
+.card{
+    border-radius: 15px;
+    margin-bottom: 30px;
+    padding: 15px;
+    box-shadow: 2px 4px 3px 2px gray;
+}
+.time{
+    background-color: rgba(237, 107, 79, 0.3);;
+    border-radius: 20px;
+    padding: 0px 15px ;
+}
+.footer{
+    text-align: center;
+}
+.card:hover{
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+h3{
+    margin: 50px 0px 50px 10px;
+}
+.margin{
+    margin-bottom: 200px;
+}
+.font{
+    font-weight: 500;
+    font-size: 24px;
+    color: #562EFF;
+}
+.marzine{
+    margin: 40px 0px 40px 10px;
+}
